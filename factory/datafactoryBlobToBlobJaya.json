@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryBlobToBlobJaya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f93e0599-438c-4b98-be92-b7f99eccdf80",
+		"tenantId": "cd319671-52e7-4a68-afa9-fcf8f89f09ea"
+	}
+}
