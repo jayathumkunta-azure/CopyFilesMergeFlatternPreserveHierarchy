@@ -1,0 +1,3 @@
+cno,fname,lname,sal
+"800","jaya","reddy","1000"
+"110","jaya","reddy","1000"
